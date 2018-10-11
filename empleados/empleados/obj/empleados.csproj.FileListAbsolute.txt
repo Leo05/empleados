@@ -1,0 +1,5 @@
+C:\Documents and Settings\lgonzalez\My Documents\Visual Studio 2005\Projects\empleados\empleados\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lgonzalez\My Documents\Visual Studio 2005\Projects\empleados\empleados\bin\Debug\empleados.exe
+C:\Documents and Settings\lgonzalez\My Documents\Visual Studio 2005\Projects\empleados\empleados\bin\Debug\empleados.pdb
+C:\Documents and Settings\lgonzalez\My Documents\Visual Studio 2005\Projects\empleados\empleados\obj\Debug\empleados.exe
+C:\Documents and Settings\lgonzalez\My Documents\Visual Studio 2005\Projects\empleados\empleados\obj\Debug\empleados.pdb

@@ -1,0 +1,7 @@
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\empleados\empleados\obj\Debug\empleados.exe
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\empleados\empleados\obj\Debug\empleados.pdb
+C:\Users\lgonzalez\Documents\Visual Studio 2013\Projects\empleados\empleados\obj\Debug\empleados.exe
+C:\Users\lgonzalez\Documents\Visual Studio 2013\Projects\empleados\empleados\obj\Debug\empleados.pdb
+C:\Users\lgonzalez\Documents\Visual Studio 2013\Projects\empleados\empleados\bin\Debug\empleados.exe
+C:\Users\lgonzalez\Documents\Visual Studio 2013\Projects\empleados\empleados\bin\Debug\empleados.pdb
+C:\Users\lgonzalez\Documents\Visual Studio 2013\Projects\empleados\empleados\obj\Debug\empleados.csprojResolveAssemblyReference.cache

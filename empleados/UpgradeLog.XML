@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="empleados">
+</Property><Property Name="Solution File" Value="C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\empleados\empleados.sln">
+</Property><Property Name="Date" Value="Tuesday, July 20, 2010">
+</Property><Property Name="Time" Value="9:32 AM">
+</Property></Properties><Event ErrorLevel="0" Project="empleados" Source="empleados\empleados.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="empleados" Source="empleados\empleados.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="empleados.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="empleados.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="empleados" Source="empleados\empleados.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
